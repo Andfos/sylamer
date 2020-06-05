@@ -1,6 +1,6 @@
 
 
-GSLPREFIX = $(HOME)/local
+GSLPREFIX = $/Users/andrew/anaconda3/pkgs/gsl-2.4-h1de35cc_4
 
 D = -DHAVE_ZLIB=1
 L = -lgsl -lgslcblas -lm -lz
